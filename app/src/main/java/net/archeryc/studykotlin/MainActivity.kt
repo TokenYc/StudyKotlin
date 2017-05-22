@@ -14,3 +14,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 }
+
+    fun CLog(msg: String){
+
+    }
