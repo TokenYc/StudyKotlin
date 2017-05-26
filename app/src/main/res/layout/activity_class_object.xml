@@ -6,21 +6,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    android:padding="20dp"
-    tools:context="net.archeryc.studykotlin.MainActivity">
+    tools:context="net.archeryc.studykotlin.ClassObjectActivity">
 
     <Button
-        android:id="@+id/btn_basic"
+        android:id="@+id/btn_1"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="基础语法"
+        android:text="构造函数"
         />
-
-    <Button
-        android:id="@+id/btn_class_object"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:text="类和对象"
-        />
-
 </LinearLayout>

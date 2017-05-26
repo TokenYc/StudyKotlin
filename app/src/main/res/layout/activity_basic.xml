@@ -19,7 +19,42 @@
         android:id="@+id/btn_fun_2"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="控制台输出"
-        />
+        android:text="控制台输出" />
 
+    <Button
+        android:id="@+id/btn_fun_3"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="条件表达式" />
+
+    <Button
+        android:id="@+id/btn_fun_4"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="空判断" />
+
+    <Button
+        android:id="@+id/btn_fun_5"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="自动类型转换" />
+
+    <Button
+        android:id="@+id/btn_fun_6"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="for循环" />
+
+    <Button
+        android:id="@+id/btn_fun_7"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="基本类型不存在同一性" />
+
+    <Button
+        android:id="@+id/btn_fun_8"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="输出数组"
+        />
 </LinearLayout>

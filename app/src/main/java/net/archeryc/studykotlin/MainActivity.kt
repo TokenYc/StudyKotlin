@@ -11,10 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         btn_basic.setOnClickListener { startActivity(Intent(this,BasicActivity::class.java)) }
+        btn_class_object.setOnClickListener { startActivity(Intent(this,ClassObjectActivity::class.java)) }
     }
 
 }
-
-    fun CLog(msg: String){
-
-    }
